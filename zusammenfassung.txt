@@ -1,0 +1,33 @@
+<html>
+	<head>
+		<meta charset="UTF-8">
+		</head>
+		<body>
+		<h1 style="font-family: Times New Roman";>Tabellenkalulation</h1>
+		<p>-Visual</p>
+		<p>-Multiplan</p>
+		<p>-Tebellenkalkulation</p>
+		<h2>Geschichte von exel</h2>
+		<p>Kalkulation und Organisation in Exel</p>
+		<p> Git -> linus Torvalds suchte nach einer lösung um Paralell an einem Programm zu Arbeiten seine lösung war einen Plattvorm bei der man Dateinen hoch und runter laden kann.
+		Anforderungen an diese seite waren:</p>
+		<p>-Synchroniesierung von Dateien</p>
+		<p>-Entwiklungsverlauf und Versionierung der Datei</p>
+		
+		<h1> Typografie</h1>
+		<p> Der nutzen von Serif, lesbarkeit in einem langen Paragrafen und stylisierung von titeln </p>
+		<h1> Textgrössen </h1>
+		<p>
+		-Schaugrössen 48-36
+		-Auszeichnungsgrössen 24-18
+		-Lesegössen 14-10
+		-Konsulationsgrösse 9-8
+		</p>
+		<h2> massystem</h2>
+		<p>DTP-Punkt 1 pt= 0.352mm</p>
+		<p> Didot-Punkt 1 dd=0.375mm</p>
+		<h1> Problemlösungsansätze</h1>
+		<p> Recherche-> wird deutlich effectiver wen man die Fachbegriffe kennt
+		versuchen auf gut glück </p>
+		
+		</body>
